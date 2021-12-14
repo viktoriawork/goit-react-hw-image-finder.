@@ -2,7 +2,7 @@
   "name": "goit-react-hw-image-finder.",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://viktoriawork.github.io/goit-react-hw-03-image-finder.",
+  "homepage": "https://viktoriawork.github.io/goit-react-hw-image-finder.",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
